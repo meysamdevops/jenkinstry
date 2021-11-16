@@ -7,5 +7,5 @@ func main() {
 }
 
 func message() {
-	fmt.Println("jenkins test v3")
+	fmt.Println("jenkins test v4")
 }
